@@ -1,0 +1,108 @@
+body{
+    background-color: #B9E0ED;
+
+}
+
+.logo {
+    height:200px;
+    width: 500px;
+}
+
+
+.right {
+    float: right;
+    font-family: 'Futura', 'Arial';
+    font-size: 40px;
+}
+
+.navcontainer{
+    width: 50%;
+    margin: auto;
+}
+ .navbar{
+    background-color: #79a6d2;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+    border: 2px solid #79a6d2;
+    display: inline-block;
+    float: left;
+}
+.navbar a{
+    text-decoration: none;
+    color:black;
+}
+
+.slideshow{
+    width:100%;
+    height:500px;
+}
+
+
+.one-third {
+    width: 33%;
+    
+}
+
+.column {
+    float: left;
+}
+
+.row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.events{
+    list-style-type: square;
+    text-decoration: none;
+    font-family: 'Gil Sans', 'Times', sans-serif;
+    font-size: 20px;
+    word-spacing: 3px;
+}
+
+h2 {
+    font-family: 'Futura', 'Arial', sans-serif;
+    font-size: 30px;
+}
+
+.paragraphs{
+    font-family: 'Gil Sans', 'Times', sans-serif;
+    font-size: 20px;
+    margin: 1px;
+    padding: 2px;
+    height: 2px;
+    width: 300px;
+
+}
+
+.icons-img {
+  height: 32px;
+  width: 32px;
+}
+
+.icons-ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.icons-li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.lines {
+    font-family: 'Futura', 'Arial', sans-serif;
+    font-size: 30px;
+     background-color: #79a6d2
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 200px;
+}
